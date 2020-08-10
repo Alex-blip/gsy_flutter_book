@@ -61,6 +61,7 @@
   * [带你深入理解 Flutter 中的字体“冷”知识](Flutter-Font-Cool.md)
   * [Flutter  1.17 中的导航解密和性能提升](Flutter-nav+1_17.md)
   * [Flutter 1.17 对列表图片的优化解析](Flutter-Image+1_17.md)
+  * [Flutter 1.20 下的 Hybrid Composition 深度解析](flutter-hy-composition.md)
   
   
 
